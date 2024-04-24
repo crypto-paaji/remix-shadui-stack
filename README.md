@@ -1,4 +1,6 @@
-# Welcome to Remix + Vite!
+# ShadUI Stack
+
+The Remix Stack with shadui setup.
 
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
 
